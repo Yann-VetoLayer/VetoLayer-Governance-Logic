@@ -36,3 +36,8 @@ VetoLayer is architected for the modern regulatory landscape:
 VetoLayer is currently **90% technically complete**. We are opening limited slots for founders building in the agentic space.
 
 **[Secure your spot at VetoLayer.com](https://vetolayer.com)**
+
+---
+
+### Status: 90% Technical Build Complete.
+Currently optimizing the x402 protocol bridge for the 2026 Agentic Summer.
